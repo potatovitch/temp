@@ -1,0 +1,20 @@
+POINTS CV:
+
+-salutations *
+-paragraphe d'accroche *
+-compétences
+-pourquoi tel université
+-
+-formule de politesse *
+
+intro:
+
+-formation *
+-montrer l'interet pour l'informatique *
+-
+
+ 
+
+
+diplome d'ingé ?  # 5 ans
+dev ?             # 3 ans
