@@ -8,7 +8,8 @@ En effet, je suis passionné par les nouvelles technologies, et de ce fait motiv
 C'est pourquoi, dès ma classe de 1ère, je me suis spécialisé en "Mathématiques et Numériques et Sciences Informatiques".
 Souhaitant devenir dévellopeur, votre établissement correspond à mon projet.
 Je souhaite donc approfondir les sujets traités dans votre module "Parcour réalisation d'application" proposé dans votre 
-établissement, . Doté d'un esprit de logique et d'un sens de l'analyse, j'ai plaisir à travailler en autonomie.
+établissement, tourné vers la conception et le développement. Doté d'un esprit de logique et d'un sens de l'analyse,
+j'ai plaisir à travailler en autonomie.
 toutefois, au sein de votre établissement, j'aimerai dévelloper mes capacités de conceptions de travail d'équipe et 
 d'adaptation aux évolutions constantes de l'informatique.
 De plus, la mise en pratique proffessionnelle est un atout majeur pour appliquer concrétement mes compétences.
@@ -51,5 +52,23 @@ j'ai plaisir à travailler en autonomie.
 toutefois, au sein de votre établissement, j'aimerai dévelloper mes capacités de conceptions de travail d'équipe et 
 d'adaptation aux évolutions constantes de l'informatique.
 De plus, la mise en pratique proffessionnelle est un atout majeur pour appliquer concrétement mes compétences.
+
+Je vous remercie par avance de l’attention que vous porterez à ma candidature.
+
+
+BUT Amiens:
+
+Madame, Monsieur,
+
+Actuellement élève de terminale générale, je souhaite intégrer à la rentrée prochaine le "BUT informatique" de votre
+IUT d'Amiens.
+En effet, je suis passionné par les nouvelles technologies, et de ce fait motivé par une carrière dans l'informatique.
+C'est pourquoi, dès ma classe de 1ère, je me suis spécialisé en "Mathématiques et Numériques et Sciences Informatiques".
+Souhaitant devenir dévellopeur, votre établissement correspond à mon projet.
+Je souhaite donc approfondir les sujets traités dans votre module "Parcour réalisation d'appliactions" proposé dans votre 
+établissement, tourné vers la conception et le développement. Doté d'un esprit de logique et d'un sens de l'analyse,
+j'ai plaisir à travailler en autonomie.
+toutefois, au sein de votre établissement, j'aimerai dévelloper mes capacités de conceptions de travail d'équipe et 
+d'adaptation aux évolutions constantes de l'informatique.
 
 Je vous remercie par avance de l’attention que vous porterez à ma candidature.
