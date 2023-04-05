@@ -1,28 +1,55 @@
-__:
-
-Madame, Monsieur,
-
-Élève de terminale générale, je souhaite intégrer à la rentrée prochaine le BUT Informatique de votre IUT.
-Passionné par les nouvelles technologies et Motivée par une carrière dans l’informatique, je me suis spécialisée
-dès la première mathématiques et en Numérique et sciences informatiques.
-
-Souhaitant devenir développeur, votre établissement correspond à mon projet.
-Je souhaite approfondir les sujets traités dans le module "Parcours réalisation d’application".
-Doté d’un esprit de logique, d’un certain sens de l’analyse, je prends plaisir à travailler, notamment en autonomie.
-
-Je vous remercie par avance de l’attention que vous porterez à ma candidature.
-
-
-######
-
 BUT Lille:
 
 Madame, Monsieur,
 
--
+Actuellement élève de terminale générale, je souhaite intégrer à la rentrée prochaine le "BUT informatique" de votre
+IUT de Lille.
+En effet, je suis passionné par les nouvelles technologies, et de ce fait motivé par une carrière dans l'informatique.
+C'est pourquoi, dès ma classe de 1ère, je me suis spécialisé en "Mathématiques et Numériques et Sciences Informatiques".
+Souhaitant devenir dévellopeur, votre établissement correspond à mon projet.
+Je souhaite donc approfondir les sujets traités dans votre module "Parcour réalisation d'application" proposé dans votre 
+établissement, . Doté d'un esprit de logique et d'un sens de l'analyse, j'ai plaisir à travailler en autonomie.
+toutefois, au sein de votre établissement, j'aimerai dévelloper mes capacités de conceptions de travail d'équipe et 
+d'adaptation aux évolutions constantes de l'informatique.
+De plus, la mise en pratique proffessionnelle est un atout majeur pour appliquer concrétement mes compétences.
 
--
+Je vous remercie par avance de l’attention que vous porterez à ma candidature.
 
--
+
+BUT Valenciennes:
+
+Madame, Monsieur,
+
+Actuellement élève de terminale générale, je souhaite intégrer à la rentrée prochaine le "BUT informatique" de votre
+IUT de Valanciennes.
+En effet, je suis passionné par les nouvelles technologies, et de ce fait motivé par une carrière dans l'informatique.
+C'est pourquoi, dès ma classe de 1ère, je me suis spécialisé en "Mathématiques et Numériques et Sciences Informatiques".
+Souhaitant devenir dévellopeur, votre établissement correspond à mon projet.
+Je souhaite donc approfondir les sujets traités dans votre module "Parcour A" proposé dans votre 
+établissement, tourné vers la conception et le développement. Doté d'un esprit de logique et d'un sens de l'analyse,
+j'ai plaisir à travailler en autonomie.
+toutefois, au sein de votre établissement, j'aimerai dévelloper mes capacités de conceptions de travail d'équipe et 
+d'adaptation aux évolutions constantes de l'informatique.
+De plus, la mise en pratique proffessionnelle est un atout majeur pour appliquer concrétement mes compétences.
+
+Je vous remercie par avance de l’attention que vous porterez à ma candidature.
+
+
+
+BUT Lens:
+
+Madame, Monsieur,
+
+Actuellement élève de terminale générale, je souhaite intégrer à la rentrée prochaine le "BUT informatique" de votre
+IUT de Lens.
+En effet, je suis passionné par les nouvelles technologies, et de ce fait motivé par une carrière dans l'informatique.
+C'est pourquoi, dès ma classe de 1ère, je me suis spécialisé en "Mathématiques et Numériques et Sciences Informatiques".
+Souhaitant devenir dévellopeur, votre établissement correspond à mon projet.
+Je souhaite donc approfondir les sujets traités dans votre module "Parcour Réalisation d'applications" proposé dans votre 
+établissement, tourné vers la conception et le développement. Doté d'un esprit de logique et d'un sens de l'analyse,
+j'ai plaisir à travailler en autonomie.
+toutefois, au sein de votre établissement, j'aimerai dévelloper mes capacités de conceptions de travail d'équipe et 
+d'adaptation aux évolutions constantes de l'informatique.
+De plus, la mise en pratique proffessionnelle est un atout majeur pour appliquer concrétement mes compétences.
 
 Je vous remercie par avance de l’attention que vous porterez à ma candidature.
